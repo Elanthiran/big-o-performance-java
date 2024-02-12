@@ -13,7 +13,6 @@ async function vehicles(){
         vehicle.appendChild(code_data)
     })
 }
-    
 catch{
     console.log(err);
     
